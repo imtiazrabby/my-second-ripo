@@ -1,0 +1,24 @@
+.header{  color: rgb(55, 0, 255);
+    height: 200px;
+    background-image: url(../natural-beauty-village.jpg.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+
+
+
+h3{
+    color: magenta;
+    text-decoration: underline;
+}
+
+p{
+    color: navy;
+}
+.page-title{
+    font-size:xx-large;
+
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
